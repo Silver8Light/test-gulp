@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 50px;
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.wrapper h1 {
+  color: #fd123c;
+  font-family: "sans-serif";
+}
+
+.wrapper h2 {
+  background-color: #aaa345;
+  padding: 25px 0;
+}

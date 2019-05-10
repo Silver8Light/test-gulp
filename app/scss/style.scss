@@ -1,1 +1,17 @@
 @import 'vars';
+
+.wrapper{
+	padding: 50px;
+	text-align: center;
+	max-width: 1000px;
+	margin: 0 auto;
+	h1{
+		color: $default;
+		font-family: $font;
+	}
+	h2{
+		background-color: $top-color;
+		padding: 25px 0;
+	}
+}
+
